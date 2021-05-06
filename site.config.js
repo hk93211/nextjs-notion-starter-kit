@@ -8,12 +8,12 @@ module.exports = {
 
   // basic site info (required)
   name: '全干工程师指南',
-  domain: 'https://www.notion.so/983ad0fd600d4f0f8b23ae0a4b80caba',
+  domain: 'https://www.notion.so/Kwin-983ad0fd600d4f0f8b23ae0a4b80caba',
   author: 'Kwin',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: '',
+  socialImageTitle: 'Kwin',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
